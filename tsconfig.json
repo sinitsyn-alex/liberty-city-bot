@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es6",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "strict": true,
+    "outDir": "dist"
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ],
+  "lib": ["es2015"]
+}
